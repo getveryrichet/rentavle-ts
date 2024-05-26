@@ -1,6 +1,6 @@
 // Entry point for the SDK
-import * as blockchainAPI from './api/blockchain';
+import { RentavleSDK } from './api/rentavle';
 
 export {
-    blockchainAPI
+    RentavleSDK,
 };
